@@ -1,7 +1,16 @@
 body {
-	background-color: navy;
+	background-color: deepskyblue;
 }
 
 h1, p {
-	color: gold;
+	color: navy;
+}
+
+li {
+	display: inline;
+	color: white;
+}
+
+a {
+	color: blue;
 }

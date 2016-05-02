@@ -1,0 +1,108 @@
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+@import url(https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy);
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	
+	text-align: center;
+	background-image: url(https://static.pexels.com/photos/7862/pexels-photo.jpg
+);
+	background-size: 100%;
+
+}
+
+main{
+	text-align: center;
+}
+
+section {
+	padding: 20px;
+	text-align: center;
+}
+
+
+h1 {
+	color: navy;
+	font-size: 40px;
+	padding: 1.25em;
+	font-family: 'Bangers', cursive;
+}
+
+h3 {
+	padding-top: 1em;
+	font-size: 1.5em;
+}
+
+h4 {
+	padding: 1em;
+
+}
+
+h6 {
+	padding-top: 1em;
+	font-size: 1em;
+	font-style: italic;
+
+}
+
+hr {
+	border: none;
+	height: 3px;
+	width: 2em;
+	margin: 1em auto;
+}
+
+p {
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size: 1em;
+	line-height: 1em;
+	color: black;
+
+}
+
+ul {
+	list-style: none;
+	overflow: hidden;
+	background-color: #ddd
+
+}
+
+li {
+	display: inline;
+	color: blue;
+	padding-left: 1em;
+
+}
+
+a {
+	color: blue;
+	font-family: sans-serif;
+	font-size: 1.25em;
+	text-decoration: none;
+}
+
+img {
+	width: 100%;
+
+}
+	
+.links{
+	width: 30em;
+	margin: 2em auto;
+	background-color: #EBFDFF
+}
+
+
+
+#footer a, p, h6 {
+	font-size: 0.85em;
+	background-color: #EBFDFF;
+	width: 30em;	
+}
+
+
+

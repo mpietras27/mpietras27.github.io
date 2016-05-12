@@ -1,0 +1,127 @@
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+@import url(https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy);
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	
+	text-align: center;
+	background-image: url(https://static.pexels.com/photos/7862/pexels-photo.jpg
+);
+	background-size: cover;
+	background-attachment: fixed;
+	background-color: #FFED74;
+}
+
+header {
+	text-align: left;
+}
+
+main{
+	text-align: center;
+}
+
+section {
+	padding: 20px;
+	text-align: center;
+	background-color: #FFE2B8;
+}
+
+h1 {
+	font-family: 'Bangers', cursive;
+	color: navy;
+	font-size: 50px;
+	padding: .5em;
+}
+
+h2 {
+	padding-left: .25em;
+	font-family: 'Bangers', cursive;
+	color: navy;
+
+}
+
+h3 {
+	padding-top: 1em;
+	font-size: 1.5em;
+}
+
+h4 {
+	padding: 1em;
+
+}
+
+h5 {
+	padding-top: 1em;
+	font-size: 1em;
+	font-style: italic;
+
+}
+
+hr {
+	border: none;
+	height: 3px;
+	width: 2em;
+	margin: 1em auto;
+}
+
+p {
+	font-family: 'Sorts Mill Goudy', serif;
+	font-size: 1em;
+	line-height: 1em;
+	color: black;
+
+}
+
+nav {
+	border: 1px solid black; 
+	background-color: #E8C66A;
+	
+}
+
+ul {
+	list-style: none;
+	overflow: hidden;
+	background-color: #ccc;
+
+}
+
+li {
+	display: inline-block;
+	color: blue;
+	padding-left: 1em;
+	
+}
+
+a {
+	color: blue;
+	font-family: sans-serif;
+	font-size: 1.25em;
+	text-decoration: none;
+}
+
+img {
+	width: 100%;
+
+}
+	
+.links{
+	width: 30em;
+	margin: 2em auto;
+	background-color: #FF957E;
+}
+
+
+#footer a, p, h5 {
+	font-size: 0.85em;
+	background-color: #EBFDFF;
+	width: 30em;
+	display: inline;
+
+}
+
+
+
